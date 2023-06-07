@@ -1,0 +1,92 @@
+﻿<Window x:Class="TelephoneNetwork.Windows.Manager.ManagerMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelephoneNetwork.Windows.Manager"
+        mc:Ignorable="d"
+        Title="Менеджер"
+        Icon="LogoSmall.png"
+        Width="1180"
+        Height="720"
+        Background="Black"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" BorderBrush="Black" Foreground="White">
+
+    <Grid>
+        <Rectangle
+                       Width="350"
+                       Height="690"
+                    HorizontalAlignment="Left">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <StackPanel HorizontalAlignment="Left">
+            <TextBlock Text="Менеджер"                     
+                       Style="{StaticResource TextBlockMain}"
+                       FontSize="36"
+                       VerticalAlignment="Top"
+                       Margin="93 62 93 25" Foreground="White"/>
+
+            <WrapPanel HorizontalAlignment="Center">
+                <TextBlock x:Name="tbkLastNameManager"
+                           Style="{StaticResource TextBlockMain}"
+                           FontSize="24" Foreground="White"/>
+                <TextBlock x:Name="tbkFirstNameManager"
+                           Style="{StaticResource TextBlockMain}"
+                           FontSize="24" Foreground="White"
+                           Margin="10 0 0 0"/>
+            </WrapPanel>
+
+            <Button x:Name="btnSubscriber"
+                    Content="Абоненты"
+                    Margin="0 50 0 20"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource ButtonSmall}" Click="btnSubscriber_Click" Foreground="White"/>
+            <Button x:Name="btnTariff"
+                    Content="Тарифы"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource ButtonSmall}" Click="btnTariff_Click"/>
+            <Button x:Name="btnCalls"
+                    Content="Звонки"
+                    Margin="0 20 0 0"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource ButtonSmall}" Click="btnCalls_Click"/>
+            <Button x:Name="btnExit"
+                    Content="Выход"
+                    Margin="0 60 0 20"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource ButtonSmall}" Click="btnExit_Click" Foreground="White"/>
+            <TextBlock Text="АИС 'Phone 9IVT01'"
+                       HorizontalAlignment="Center"
+                       Style="{StaticResource TextBlockMain}"
+                       FontSize="36" Foreground="White"/>
+        </StackPanel>
+
+        <Frame x:Name="frmManager"
+               HorizontalAlignment="Right"
+               Width="825"
+               Height="690">
+            <Frame.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="0.937"/>
+                    <GradientStop Color="#FFF3F3F3" Offset="0.953"/>
+                    <GradientStop Color="#FFF3F3F3" Offset="0.11"/>
+                    <GradientStop Color="#FFF3F3F3" Offset="0.19"/>
+                </LinearGradientBrush>
+            </Frame.Background>
+            <Frame.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Frame.BorderBrush>
+        </Frame>
+    </Grid>
+</Window>

@@ -1,0 +1,280 @@
+﻿<Window x:Class="TelephoneNetwork.Windows.SubscriberMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelephoneNetwork.Windows"
+        mc:Ignorable="d"
+        Title="Абонент"
+        Width="1180"
+        Height="720"
+        Icon="LogoSmall.png"
+        Background="#F1FFFB"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="0.193"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock Text="Данные об абоненте"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Style="{StaticResource TextBlockSign}"
+                   Margin="0 40 0 0" Foreground="White"/>
+
+        <StackPanel HorizontalAlignment="Center"
+                    Margin="0 90 0 0">
+            <WrapPanel>
+                <StackPanel>
+                    <TextBlock Text="Фамилия"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbLastName"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="200"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput ="txbLastName_PreviewTextInput"
+                             LostFocus="txbLastName_LostFocus" Background="White" BorderBrush="Black" Foreground="#FF020202"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 0 0 0">
+                    <TextBlock Text="Имя"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbFirstName"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="200"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput ="txbFirstName_PreviewTextInput"
+                             LostFocus="txbFirstName_LostFocus" Background="White" BorderBrush="Black" Foreground="Black"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 0 0 0">
+                    <TextBlock Text="Отчество"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbPatronymic"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="200"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput ="txbPatronymic_PreviewTextInput" Foreground="Black" BorderBrush="Black" Background="White"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 0 0 0">
+                    <TextBlock Text="Пол"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <ComboBox x:Name="cmbGender"
+                              HorizontalAlignment="Left"
+                              Width="150"
+                              Height="30"
+                              Margin="0 10 0 0"/>
+                </StackPanel>
+            </WrapPanel>
+
+            <WrapPanel>
+                <StackPanel Margin="0 20 0 0">
+                    <TextBlock Text="Дата рождения"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <DatePicker x:Name="dpBirthDate"
+                                HorizontalAlignment="Left"
+                                Background="White"
+                                BorderBrush="Black"
+                                Foreground="Black"
+                                BorderThickness="2"
+                                FontSize="16"
+                                Width="200"
+                                Height="30"
+                                Margin="0 10 0 10"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 20 0 0">
+                    <TextBlock Text="Email"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbEmail"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="200"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput="txbEmail_PreviewTextInput" Foreground="Black" BorderBrush="#FF2B2B2B" Background="White"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 20 0 0">
+                    <TextBlock Text="Адрес"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbAddress"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="380"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput="txbAddress_PreviewTextInput" Background="White" BorderBrush="Black" Foreground="Black"/>
+                </StackPanel>
+            </WrapPanel>
+
+            <WrapPanel>
+                <StackPanel Margin="0 20 0 0">
+                    <TextBlock Text="Серия паспорта"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbSeriesPassport"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             BorderThickness="2"
+                             FontSize="18"
+                             Width="135"
+                             Height="30"
+                             Margin="0 10 0 0"
+                             PreviewTextInput ="txbSeriesPassport_PreviewTextInput"
+                             LostFocus="txbSeriesPassport_LostFocus" Background="White" BorderBrush="#FF2B2B2B" Foreground="#FF2B2B2B"/>
+                </StackPanel>
+
+                <StackPanel Margin="30 20 0 0">
+                    <TextBlock Text="Номер паспорта"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource TextBlockSign}"
+                               FontSize="18" Foreground="Black"/>
+                    <TextBox x:Name="txbNumberPassport"
+                             HorizontalAlignment="Left"
+                             Style="{StaticResource TextBoxSign}"
+                             FontSize="18"
+                             Width="200"
+                             Height="30"
+                             BorderThickness="2"
+                             Margin="0 10 0 0"
+                             PreviewTextInput ="txbNumberPassport_PreviewTextInput"
+                             LostFocus="txbNumberPassport_LostFocus" Foreground="#FF2B2B2B" BorderBrush="#FF2B2B2B" Background="White"/>
+                </StackPanel>
+
+                <ComboBox x:Name="cmbBenefit"
+                          HorizontalAlignment="Left"
+                          Width="150"
+                          Height="30"
+                          Margin="30 50 0 0"/>
+                <TextBox x:Name="txbBenefitCertificate"
+                         ToolTip="Льготное удостоверение"
+                         HorizontalAlignment="Left"
+                         Style="{StaticResource TextBoxSign}"
+                         BorderThickness="2"
+                         FontSize="18"
+                         Width="265"
+                         Height="30"
+                         Margin="30 50 0 0"
+                         PreviewTextInput ="txbBenefitCertificate_PreviewTextInput" BorderBrush="#FF2B2B2B" Foreground="#FF2B2B2B" Background="White"/>
+            </WrapPanel>
+
+            <WrapPanel Margin="0 30 0 0">
+                <Button x:Name="Save"
+                        Content="Сохранить"
+                        HorizontalAlignment="Left"
+                        Style="{StaticResource ButtonBig}"
+                        FontSize="16"
+                        Width="150"
+                        Height="30"
+                        Click="Save_Click" Foreground="White" Background="Black" BorderBrush="Black"/>
+                <Button x:Name="OffSubscriber"
+                        Content="Отключить абонента"
+                        HorizontalAlignment="Left"
+                        Style="{StaticResource ButtonBig}"
+                        FontSize="16"
+                        Width="150"
+                        Height="30"
+                        Margin="20 0 0 0" Click="OffSubscriber_Click" Foreground="White" Background="Black" BorderBrush="Black"/>
+            </WrapPanel>
+
+            <TextBlock Text="Номера"
+                       HorizontalAlignment="Left"
+                       Style="{StaticResource TextBlockSign}"
+                       FontSize="20"
+                       Margin="0 20 0 0" Foreground="Black"/>
+
+            <WrapPanel>
+                <ListView x:Name="lvSubscriberNumber"
+                      HorizontalAlignment="Left"
+                      Foreground="Black"
+                      Width="600"
+                      Height="200"
+                      Margin="0 0 0 0" SelectionChanged="lvSubscriberNumber_SelectionChanged" d:ItemsSource="{d:SampleData ItemCount=5}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn
+                            Header="Номер" Width="120" DisplayMemberBinding="{Binding NumberName}"/>
+                            <GridViewColumn
+                            Header="Тариф" Width="150" DisplayMemberBinding="{Binding TariffName}"/>
+                            <GridViewColumn
+                            Header="Дата регистрации" Width="200" DisplayMemberBinding="{Binding RegDate}"/>
+                            <GridViewColumn
+                            Header="Баланс" Width="120" DisplayMemberBinding="{Binding Balance}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <StackPanel Margin="20 0 0 0">
+                    <Button x:Name="AddNumber"
+                            Content="Добавить номер"
+                            Style="{StaticResource ButtonBig}"
+                            FontSize="16"
+                            Width="150"
+                            Height="30"
+                            Click="AddNumber_Click" Foreground="White" BorderBrush="Black" Background="Black"/>
+                    <Button x:Name="EditTariff"
+                            Content="Изменить тариф"
+                            Style="{StaticResource ButtonBig}"
+                            FontSize="16"
+                            Width="150"
+                            Height="30"
+                            Margin="0 10 0 0"
+                            Click="EditTariff_Click" Background="Black" BorderBrush="Black" Foreground="White"/>
+                    <Button x:Name="OffNumber"
+                            Content="Отключить номер"
+                            Style="{StaticResource ButtonBig}"
+                            FontSize="16"
+                            Width="150"
+                            Height="30"
+                            Margin="0 30 0 0"
+                            Click="OffNumber_Click" Background="Black" BorderBrush="Black" Foreground="White"/>
+                </StackPanel>
+            </WrapPanel>
+        </StackPanel>
+        <Button x:Name="btnClose"
+                Content="Закрыть"
+                Foreground="White"
+                FontSize="24"
+                Style="{StaticResource ButtonSmall}"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Bottom"
+                Margin="45 0 0 65"
+                Click="btnClose_Click" Background="Black" BorderBrush="Black"/>
+    </Grid>
+</Window>

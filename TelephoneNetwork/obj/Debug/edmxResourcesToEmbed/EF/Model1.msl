@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище SubscribersTelephoneNetworkModelContainer" CdmEntityContainer="SubscribersTelephoneNetworkEntities">
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SubscribersTelephoneNetworkModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SubscribersTelephoneNetworkModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="Хранилище SubscribersTelephoneNetworkModel.sp_upgraddiagrams" />
+    <EntitySetMapping Name="Benefit">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Benefit">
+        <MappingFragment StoreEntitySet="Benefit">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="BenefitName" ColumnName="BenefitName" />
+          <ScalarProperty Name="BenefitCode" ColumnName="BenefitCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Calls">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Calls">
+        <MappingFragment StoreEntitySet="Calls">
+          <ScalarProperty Name="DurationInMinute" ColumnName="DurationInMinute" />
+          <ScalarProperty Name="CallsDate" ColumnName="CallsDate" />
+          <ScalarProperty Name="IdOutNumber" ColumnName="IdOutNumber" />
+          <ScalarProperty Name="IdInNumber" ColumnName="IdInNumber" />
+          <ScalarProperty Name="IdCalls" ColumnName="IdCalls" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NumberPhone" ColumnName="NumberPhone" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="GenderCode" ColumnName="GenderCode" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="IdPosition" ColumnName="IdPosition" />
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gender">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Gender">
+        <MappingFragment StoreEntitySet="Gender">
+          <ScalarProperty Name="GenderName" ColumnName="GenderName" />
+          <ScalarProperty Name="GenderCode" ColumnName="GenderCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Number">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Number">
+        <MappingFragment StoreEntitySet="Number">
+          <ScalarProperty Name="StatusCode" ColumnName="StatusCode" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="IdTariffPlan" ColumnName="IdTariffPlan" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="NumberName" ColumnName="NumberName" />
+          <ScalarProperty Name="IdSubscriber" ColumnName="IdSubscriber" />
+          <ScalarProperty Name="IdNumber" ColumnName="IdNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Position">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Position">
+        <MappingFragment StoreEntitySet="Position">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="PositionName" ColumnName="PositionName" />
+          <ScalarProperty Name="IdPosition" ColumnName="IdPosition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+          <ScalarProperty Name="StatusCode" ColumnName="StatusCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscriber">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.Subscriber">
+        <MappingFragment StoreEntitySet="Subscriber">
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="BenefitCertififcate" ColumnName="BenefitCertififcate" />
+          <ScalarProperty Name="BenefitCode" ColumnName="BenefitCode" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="PassportSeries" ColumnName="PassportSeries" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="GenderCode" ColumnName="GenderCode" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="IdSubscriber" ColumnName="IdSubscriber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TariffPlan">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.TariffPlan">
+        <MappingFragment StoreEntitySet="TariffPlan">
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="TariffName" ColumnName="TariffName" />
+          <ScalarProperty Name="IdTariffPlan" ColumnName="IdTariffPlan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CallsInView">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.CallsInView">
+        <MappingFragment StoreEntitySet="CallsInView">
+          <ScalarProperty Name="IdCalls" ColumnName="IdCalls" />
+          <ScalarProperty Name="NumberName" ColumnName="NumberName" />
+          <ScalarProperty Name="IdInNumber" ColumnName="IdInNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CallsOutView">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.CallsOutView">
+        <MappingFragment StoreEntitySet="CallsOutView">
+          <ScalarProperty Name="IdCalls" ColumnName="IdCalls" />
+          <ScalarProperty Name="NumberName" ColumnName="NumberName" />
+          <ScalarProperty Name="IdOutNumber" ColumnName="IdOutNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CallsView">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.CallsView">
+        <MappingFragment StoreEntitySet="CallsView">
+          <ScalarProperty Name="DurationInMinute" ColumnName="DurationInMinute" />
+          <ScalarProperty Name="CallsDate" ColumnName="CallsDate" />
+          <ScalarProperty Name="IdCalls" ColumnName="IdCalls" />
+          <ScalarProperty Name="NumberOut" ColumnName="NumberOut" />
+          <ScalarProperty Name="NumberIn" ColumnName="NumberIn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NumberView">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.NumberView">
+        <MappingFragment StoreEntitySet="NumberView">
+          <ScalarProperty Name="IdTariffPlan" ColumnName="IdTariffPlan" />
+          <ScalarProperty Name="StatusCode" ColumnName="StatusCode" />
+          <ScalarProperty Name="IdSubscriber" ColumnName="IdSubscriber" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="TariffName" ColumnName="TariffName" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="NumberName" ColumnName="NumberName" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="IdNumber" ColumnName="IdNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubscriberView">
+      <EntityTypeMapping TypeName="SubscribersTelephoneNetworkModel.SubscriberView">
+        <MappingFragment StoreEntitySet="SubscriberView">
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="BenefitCertififcate" ColumnName="BenefitCertififcate" />
+          <ScalarProperty Name="BenefitCode" ColumnName="BenefitCode" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="PassportSeries" ColumnName="PassportSeries" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="GenderCode" ColumnName="GenderCode" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="IdSubscriber" ColumnName="IdSubscriber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

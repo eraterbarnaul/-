@@ -1,0 +1,20 @@
+﻿TelephoneNetwork
+
+
+winexe
+C#
+.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\
+TelephoneNetwork
+none
+false
+DEBUG;TRACE
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\App.xaml
+132021729381
+2-1080765
+39-1821527031
+181660638121
+Windows\AddNumber.xaml;Windows\AddSubscriber.xaml;Windows\EditNumber.xaml;Windows\Manager\AddTariff.xaml;Windows\Manager\CallsManagerPage.xaml;Windows\Manager\EditTariff.xaml;Windows\Manager\ManagerMain.xaml;Windows\SubscriberMain.xaml;Windows\Manager\TariffManagerPage.xaml;Windows\Operator\TariffOperatorPage.xaml;Windows\SubscriberPage.xaml;Windows\Operator\OperatorMain.xaml;Windows\SignWindow.xaml;
+
+False
+

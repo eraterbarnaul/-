@@ -1,0 +1,147 @@
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe.config
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.pdb
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddNumber.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\EditNumber.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SignWindow.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\App.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_Content.g.cs
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.cache
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.lref
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\App.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddNumber.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\EditNumber.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SignWindow.baml
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.g.resources
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.Properties.Resources.resources
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.GenerateResource.cache
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CopyComplete
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.exe
+C:\Users\User\Downloads\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.pdb
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe.config
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\TelephoneNetwork.pdb
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddNumber.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\EditNumber.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SignWindow.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_Content.g.cs
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.cache
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.lref
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\App.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddNumber.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\EditNumber.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\Windows\SignWindow.baml
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.g.resources
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.Properties.Resources.resources
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CopyComplete
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.exe
+C:\Users\User\Desktop\TelephoneNetwork-master (1)\TelephoneNetwork-master\TelephoneNetwork\obj\Debug\TelephoneNetwork.pdb
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe.config
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\TelephoneNetwork.exe
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\TelephoneNetwork.pdb
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\AddNumber.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\EditNumber.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SignWindow.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\App.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork_Content.g.cs
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.cache
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork_MarkupCompile.lref
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\App.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\AddNumber.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\AddSubscriber.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\EditNumber.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\AddTariff.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\CallsManagerPage.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\EditTariff.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\ManagerMain.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SubscriberMain.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Manager\TariffManagerPage.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Operator\TariffOperatorPage.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SubscriberPage.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\Operator\OperatorMain.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\Windows\SignWindow.baml
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.g.resources
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.Properties.Resources.resources
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.csproj.CopyComplete
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.exe
+C:\Users\User\Desktop\АИС телефонной сети\TelephoneNetwork\obj\Debug\TelephoneNetwork.pdb
